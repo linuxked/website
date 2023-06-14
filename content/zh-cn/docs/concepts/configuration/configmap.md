@@ -17,7 +17,7 @@ or use additional (third party) tools to keep your data private.
 -->
 ConfigMap 并不提供保密或者加密功能。
 如果你想存储的数据是机密的，请使用 {{< glossary_tooltip text="Secret" term_id="secret" >}}，
-或者使用其他第三方工具来保证你的数据的私密性，而不是用 ConfigMap。
+或者使用其他第三方工具来保证你的数据的私密性，1而不是用 ConfigMap。
 {{< /caution >}}
 
 <!-- body -->
